@@ -1,4 +1,4 @@
-# E-Commerce-website
+# MysticMart E-Commerce-website
 
 ![WhatsApp Image 2023-11-03 at 4 53 08 PM (11)](https://github.com/Sahilshaikh55/E-Commerce-website/assets/98039768/e5e34ac3-a6b6-4f28-887d-bfcd2be11590)
 ![WhatsApp Image 2023-11-03 at 4 53 08 PM (9)](https://github.com/Sahilshaikh55/E-Commerce-website/assets/98039768/3c7f4096-34e5-4818-b3a3-5af7b5811223)
